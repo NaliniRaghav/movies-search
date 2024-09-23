@@ -1,4 +1,5 @@
 import {useState, useEffect} from "react";
+import "./Form.css";
 export default function Form (props) {
     // State to hold the data of our form
     const [formData, setFormData] = useState({

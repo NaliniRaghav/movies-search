@@ -33,7 +33,10 @@ import Form from "./components/Form";
       <MovieDisplay movie={movie} />
     </div>
   );
+
+  
 }
+
 
 
 
